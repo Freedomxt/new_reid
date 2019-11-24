@@ -1,2 +1,3 @@
 # new_reid
-Convient to modify
+user name: ljllili23
+join date: 24 Nov 2019
